@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/wagnerbola2">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerbola2&layout=compact&theme=dracula&line_height=40&hide=css"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wagnerbola2&show_icons=true&theme=dracula&include_all_commits=true&line_height=40&hide=css"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerbola2&layout=compact&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wagnerbola2&show_icons=true&theme=dracula&include_all_commits=true"/>
 </div>
 
 ![Snake animation](https://github.com/wagnerbola2/wagnerbola2/blob/output/github-contribution-grid-snake.svg)
