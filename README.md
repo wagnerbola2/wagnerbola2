@@ -3,14 +3,10 @@
 ## Bem vindo ao meu humilde GitHub
 
 <div>
-<a href="https://github.com/wagnerbola2">
-<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerbola2&layout=compact&langs_count=7&theme=dracula"/> -->
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wagnerbola2&layout=compact&theme=dracula&line_height=40&hide=css"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=wagnerbola2&show_icons=true&theme=dracula&include_all_commits=true"/>
-<!--
+  <a href="https://github.com/wagnerbola2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerbola2&layout=compact&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wagnerbola2&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wagnerbola2&layout=compact&theme=dracula&line_height=40&hide=css"/>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
--->
 </div>
 
 ![Snake animation](https://github.com/wagnerbola2/wagnerbola2/blob/output/github-contribution-grid-snake.svg)
