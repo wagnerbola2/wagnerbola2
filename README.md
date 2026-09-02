@@ -1,9 +1,9 @@
-# Bem vindo ao humilde GitHub de Wagner Nunes
+# Bem vindo GitHub de Wagner Nunes
 ---
 - :man_technologist: Atualmente trabalho com BackEnd
 - :space_invader: Estou estudando:
   
-  [![My Skills](https://skillicons.dev/icons?i=ts,py,cs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=rust,ts,py,cs)](https://skillicons.dev)
  
 <div>
   <a href="https://github.com/wagnernunes-dev">
