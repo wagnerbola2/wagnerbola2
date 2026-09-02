@@ -3,14 +3,7 @@
 - :man_technologist: Atualmente trabalho com BackEnd
 - :space_invader: Estou estudando:
   
-  [![My Skills](https://skillicons.dev/icons?i=rust,ts,py,cs)](https://skillicons.dev)
- 
-<div>
-  <a href="https://github.com/wagnernunes-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnernunes-dev&layout=compact&lang_count=16&theme=dracula&card_width=336" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnernunes-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&card_width=456" />
-  </a>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=rust,ts,py,cs)](https://skillicons.dev)
 
 <div> 
   <a href = "mailto:wagnersgoncalves@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=maildotcom&logoColor=white" target="_blank"></a>
